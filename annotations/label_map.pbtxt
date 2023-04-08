@@ -1,9 +1,9 @@
 item {
     id: 1
-    name: 'car'
+    name: 'r'
 }
 
 item {
     id: 2
-    name: 'bike'
+    name: 'be'
 }
