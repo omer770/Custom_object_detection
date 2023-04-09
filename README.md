@@ -1,3 +1,2 @@
 # Custom_object_detection
-for two classes:
-bike
+for two classes: bike &
