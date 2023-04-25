@@ -9,5 +9,5 @@ item {
 }
 item {
     id: 2
-    name: 'bike'
+    name: 'cycle'
 }
